@@ -10,6 +10,10 @@
 - variables
 - list
 - dictionary
+- print
+- strings 
+- float/int
+- concatenation
 
 ### Part 3: functions
 - write functions with no arguments
@@ -28,9 +32,9 @@
 - my first class
 - inheritance
 
-part1-6:
-[link1](https://realpython.com/courses/python-basics-first-program/)
-[link1](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+*part1-6:*
+* 👉 [link1](https://realpython.com/courses/python-basics-first-program/)
+* 👉 [link1](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
 ## DAY 2:
 ### part 7: Write a game with Pygame
